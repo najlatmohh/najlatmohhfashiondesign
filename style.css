@@ -1,0 +1,19 @@
+h1
+{
+    font-style: italic;
+    color:red;
+}
+h2
+{
+    font-style: italic;
+    color:black;
+}
+p
+{
+    font-style: inherit;
+    color: brown;
+}
+img:hover{
+     transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+}
